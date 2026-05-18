@@ -163,9 +163,10 @@ int main(int argc, char *argv[])
 
 
 ## OUTPUT
-# copying file:
+## copying file:
 <img width="1098" height="327" alt="filecopy" src="https://github.com/user-attachments/assets/561fb46c-00ce-4f67-a3ac-631f5566483b" />
-# locking file:
+
+## locking file:
 <img width="1309" height="805" alt="lock" src="https://github.com/user-attachments/assets/8b6e3044-7da4-4650-b78c-2c93a8720595" />
 
 
